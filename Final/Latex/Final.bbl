@@ -1,0 +1,219 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Carbo-Valverde%
+, Cuadros-Solas%
+\BCBL {}\ \BBA {} Rodríguez-Fernández%
+}{%
+Carbo-Valverde%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+Carbo-Valverde2020Machine}
+\APACinsertmetastar {%
+Carbo-Valverde2020Machine}%
+\begin{APACrefauthors}%
+Carbo-Valverde, S.%
+, Cuadros-Solas, P.%
+\BCBL {}\ \BBA {} Rodríguez-Fernández, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{10}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A machine learning approach to the digitalization of bank customers: Evidence from random and causal forests} {A machine learning approach to the digitalization of bank customers: Evidence from random and causal forests}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{PLOS ONE}{15}{10}{1-39}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1371/journal.pone.0240362} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1371/journal.pone.0240362} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cheng%
+\ \protect \BOthers {.}}{%
+Cheng%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2022}}%
+}]{%
+Cheng2022Evaluation}
+\APACinsertmetastar {%
+Cheng2022Evaluation}%
+\begin{APACrefauthors}%
+Cheng, L.%
+, Guo, R.%
+, Moraffah, R.%
+, Sheth, P.%
+, Candan, K\BPBI S.%
+\BCBL {}\ \BBA {} Liu, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{12}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Evaluation Methods and Measures for Causal Learning Algorithms} {Evaluation methods and measures for causal learning algorithms}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{IEEE Transactions on Artificial Intelligence}{PP}{}{1-1}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/TAI.2022.3150264} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Flores%
+, Hernandez%
+, Tolentino%
+, Mendez%
+\BCBL {}\ \BBA {} Fernando%
+}{%
+Flores%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2022}}%
+}]{%
+Flores2022Classification}
+\APACinsertmetastar {%
+Flores2022Classification}%
+\begin{APACrefauthors}%
+Flores, L.%
+, Hernandez, R.%
+, Tolentino, L.%
+, Mendez, C.%
+\BCBL {}\ \BBA {} Fernando, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{08}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A Classification Approach in the Probability of Credit Card Approval using Relief-Based Feature Selection} {A classification approach in the probability of credit card approval using relief-based feature selection}.{\BBCQ}
+\newblock
+\BIn{} (\BPG~1-7).
+\newblock
+\begin{APACrefDOI} \doi{10.1109/ASIANCON55314.2022.9908827} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kibria%
+\ \BBA {} Şevkli%
+}{%
+Kibria%
+\ \BBA {} Şevkli%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+Kibria2021Application}
+\APACinsertmetastar {%
+Kibria2021Application}%
+\begin{APACrefauthors}%
+Kibria, M.%
+\BCBT {}\ \BBA {} Şevkli, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{06}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Application of Deep Learning for Credit Card Approval: A Comparison with Two Machine Learning Techniques} {Application of deep learning for credit card approval: A comparison with two machine learning techniques}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Machine Learning and Computing}{11}{}{286-290}.
+\newblock
+\begin{APACrefDOI} \doi{10.18178/ijmlc.2021.11.4.1049} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lecca%
+}{%
+Lecca%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+Lecca2021Machine}
+\APACinsertmetastar {%
+Lecca2021Machine}%
+\begin{APACrefauthors}%
+Lecca, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Machine Learning for Causal Inference in Biological Networks: Perspectives of This Challenge} {Machine learning for causal inference in biological networks: Perspectives of this challenge}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Frontiers in Bioinformatics}{1}{}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.3389/fbinf.2021.746712} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lee%
+, Ullah%
+\BCBL {}\ \BBA {} Wang%
+}{%
+Lee%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+Lee2020Bootstrap}
+\APACinsertmetastar {%
+Lee2020Bootstrap}%
+\begin{APACrefauthors}%
+Lee, T\BHBI H.%
+, Ullah, A.%
+\BCBL {}\ \BBA {} Wang, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{01}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Bootstrap Aggregating and Random Forest} {Bootstrap aggregating and random forest}.{\BBCQ}
+\newblock
+\BIn{} (\BPG~389-429).
+\newblock
+\begin{APACrefDOI} \doi{10.1007/978-3-030-31150-6\_13} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nandipati%
+\ \BBA {} Boddala%
+}{%
+Nandipati%
+\ \BBA {} Boddala%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+nandipati2024credit}
+\APACinsertmetastar {%
+nandipati2024credit}%
+\begin{APACrefauthors}%
+Nandipati, V\BPBI S\BPBI S.%
+\BCBT {}\ \BBA {} Boddala, L\BPBI V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACrefbtitle {Credit Card Approval Prediction: A comparative analysis between Logistic Regression, KNN, Decision Trees, Random Forest, XGBoost.} {Credit card approval prediction: A comparative analysis between logistic regression, knn, decision trees, random forest, xgboost.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Satchidananda%
+\ \BBA {} Simha%
+}{%
+Satchidananda%
+\ \BBA {} Simha%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+Satchidananda2006Comparing}
+\APACinsertmetastar {%
+Satchidananda2006Comparing}%
+\begin{APACrefauthors}%
+Satchidananda, S.%
+\BCBT {}\ \BBA {} Simha, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{01}{}.
+\newblock
+\APACrefbtitle {Comparing decision trees with logistic regression for credit risk analysis.} {Comparing decision trees with logistic regression for credit risk analysis.}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
